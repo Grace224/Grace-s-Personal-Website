@@ -1,0 +1,69 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: lightgoldenrodyellow; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: royalblue;
+}
+
+.center {
+  text-align:center;
+  font-size:40px;
+  }
+
+#paragraph {
+  text-align:center;
+  color:royalblue;
+  background-color:lightsteelblue;
+  margin:1em;
+  border:10px solid lightsteelblue
+  font-family: 'Barlow', sans-serif;
+}
+
+#home_picture {
+  border-radius:80%;
+  text-align:center;
+  max-width: 100%;  
+  height: auto;
+  border:3px solid royalblue;
+  margin:1em;
+}
+
+.port_picture{
+  border_radius: 40%;
+  border:3px solid lightsteelblue
+}
+
+.margin {
+  margin: 2em;
+  text-align:center;
+  color:lightsteelblue
+}
+
+ul {
+  list-style-type: none;
+  background-color:#b0c4de;
+  overflow: hidden;
+  padding: 1em;
+}
+
+li {
+  display: inline;
+}
+
+ li a {
+   text-decoration:none;
+   color: white; 
+   enter.font-size: 1.3em; 
+   enter.padding: 1em;
+ }
+
+li a:hover {
+background-color: #00008B;
+}
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
